@@ -1458,10 +1458,16 @@ pre .javascript .function {
   word-break: break-word;
   font-weight: 400;
 }
+.post-title {
+  border-bottom: 3px solid #0593d3;
+  font-size: 25px;
+  color: #239909;
+  background: #c8c8c8;
+}
 .posts-expand .post-title-link {
   display: inline-block;
   position: relative;
-  color: #555;
+  color: #239909;
   border-bottom: none;
   line-height: 1.2;
   vertical-align: top;
@@ -1956,7 +1962,7 @@ pre {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #57ffa8;
+  background: #fffff4;
 }
 .links-of-blogroll {
   font-size: 13px;
